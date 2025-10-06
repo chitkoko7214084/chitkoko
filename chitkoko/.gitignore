@@ -29,8 +29,7 @@ coverage
 
 *.tsbuildinfo
 
-
 # Firebase config
-firebase.config.js
-.firebaserc
-firebase.json
+# Firebase config
+src/firebase/firebaseConfig.js
+
