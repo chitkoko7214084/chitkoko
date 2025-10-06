@@ -28,3 +28,9 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+
+# Firebase config
+firebase.config.js
+.firebaserc
+firebase.json
