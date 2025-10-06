@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "chitkoko-43c14",
+    "chitkoko": "chitkoko-43c14"
+  },
+  "targets": {
+    "chitkoko-43c14": {
+      "hosting": {
+        "chitkoko": [
+          "chitkoko"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

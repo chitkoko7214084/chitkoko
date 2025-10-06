@@ -4,7 +4,7 @@
       v-for="icon in icons"
       :key="icon.id"
       class="desktop-icon"
-      @dblclick="$emit('open', icon)"
+      @click="$emit('open', icon)"
     >
       <img :src="icon.src" :alt="icon.name" />
       <p>{{ icon.name }}</p>
