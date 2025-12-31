@@ -113,7 +113,7 @@ Open source - free to fork and modify for your own portfolio!
 
 **Chit Ko Ko**
 - GitHub: [@chitkoko7214084](https://github.com/chitkoko7214084)
-- Portfolio: [Live Site](https://chitkoko.org) _(update with your URL)_
+- Portfolio: [Live Site](https://chitkoko.web.app) _(update with your URL)_
 
 ---
 
