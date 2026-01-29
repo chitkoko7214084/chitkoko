@@ -133,7 +133,7 @@
         <!-- Social Links -->
         <div class="flex justify-center gap-8 flex-wrap">
           <a href="https://github.com/chitkoko7214084/" target="_blank" class="px-8 py-4 bg-white text-indigo-600 rounded-full font-semibold shadow-lg hover:-translate-y-1 hover:shadow-2xl transition-all duration-300">GitHub</a>
-          <a href="https://linkedin.com/in/yourusername" target="_blank" class="px-8 py-4 bg-white text-indigo-600 rounded-full font-semibold shadow-lg hover:-translate-y-1 hover:shadow-2xl transition-all duration-300">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/chit-ko-933b0bb2/" target="_blank" class="px-8 py-4 bg-white text-indigo-600 rounded-full font-semibold shadow-lg hover:-translate-y-1 hover:shadow-2xl transition-all duration-300">LinkedIn</a>
         </div>
       </div>
     </section>
